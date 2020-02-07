@@ -4,4 +4,5 @@ def turn_count(board)
     |token| == "X" || |token| == "O"
     turn += 1
   end
+  end
 end
